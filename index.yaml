@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   kubecart:
   - apiVersion: v2
-    created: "2026-04-25T20:02:25.07463719Z"
+    created: "2026-04-25T20:09:31.032973021Z"
     dependencies:
     - name: frontend
       repository: file://charts/frontend
@@ -39,6 +39,6 @@ entries:
     name: kubecart
     type: application
     urls:
-    - https://AhamedAasikAfridiS.github.io/Kubecart-Helm-Repo/helm-repo/kubecart-0.1.0.tgz
+    - https://AhamedAasikAfridiS.github.io/Kubecart-Helm-Repo/kubecart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-25T20:02:25.071874083Z"
+generated: "2026-04-25T20:09:31.030148734Z"
